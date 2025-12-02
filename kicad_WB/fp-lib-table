@@ -1,0 +1,4 @@
+
+(fp_lib_table
+  (lib (name "Wbaum")(type KiCad)(uri "$(KIPRJMOD)/Wbaum.pretty")(options "")(descr ""))
+)
